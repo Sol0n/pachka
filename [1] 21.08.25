@@ -1,0 +1,1693 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"> 
+<head> 
+	<!--[if gte mso 9]>
+	<xml>
+	<o:OfficeDocumentSettings>
+	<o:AllowPNG/>
+	<o:PixelsPerInch>96</o:PixelsPerInch>
+	</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]--> 
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<meta name="viewport" content="width=device-width,initial-scale=1"> 
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/> 
+	<meta name="x-apple-disable-message-reformatting"> 
+	<title>Finish email</title> 
+	<style>
+		html, body {
+			margin: 0;
+			padding: 0;
+			width: 100% !important;
+			-webkit-text-size-adjust: none;
+			-ms-text-size-adjust: none;
+		}
+		
+		table {
+			border-collapse: collapse !important;
+		}
+		
+		img {
+			max-width: 100% !important;
+			height: auto !important;
+		}
+		
+		.only_mob {
+			display: none !important;
+		}
+		
+		/* Базовые мобильные стили */
+		@media only screen and (max-width: 600px) {
+			.mob_100 {
+				width: 100% !important;
+				max-width: 100% !important;
+			}
+			
+			.mob_100 img, .mob_100 table {
+				max-width: 100% !important;
+				width: 100% !important;
+			}
+			
+			.mob_full {
+				width: auto !important;
+				display: block !important;
+				padding: 0 15px !important;
+			}
+			
+			.mob_center {
+				text-align: center !important;
+			}
+			
+			.mob_center_bl {
+				margin-left: auto;
+				margin-right: auto;
+			}
+			
+			.mob_hidden {
+				display: none !important;
+			}
+			
+			.only_mob {
+				display: block !important;
+			}
+			
+			table.only_mob {
+				display: table !important;
+			}
+			
+			/* Мобильная адаптация контейнеров */
+			.desktop_no_padding {
+				padding-left: 15px !important;
+				padding-right: 15px !important;
+			}
+			
+			/* Исправляем инлайн-блоки для мобильных */
+			.mobile-stack {
+				display: block !important;
+				width: 100% !important;
+				max-width: 100% !important;
+				vertical-align: top !important;
+			}
+			
+			/* Адаптация колонок */
+			.mobile-column {
+				display: block !important;
+				width: 100% !important;
+				max-width: 100% !important;
+				padding-right: 0 !important;
+				margin-bottom: 20px !important;
+			}
+			
+			/* Адаптация изображений */
+			.responsive-img {
+				width: 100% !important;
+				max-width: 100% !important;
+				height: auto !important;
+			}
+			
+			/* Уменьшаем отступы на мобильных */
+			.mobile-padding {
+				padding: 15px !important;
+			}
+			
+			/* Адаптация текста */
+			.mobile-text {
+				font-size: 16px !important;
+				line-height: 1.4 !important;
+			}
+			
+			/* Фиксированная ширина для чисел в статистике */
+			.stat-number {
+				width: auto !important;
+				min-width: 60px !important;
+				text-align: center !important;
+			}
+		}
+		
+		.creative {
+			width: 100% !important;
+			max-width: 100% !important;
+		}
+		
+		.mail_preheader {
+			display: none !important;
+		}
+		
+		form input, form textarea {
+			font-family: Arial, sans-serif;
+			width: 100%;
+			box-sizing: border-box;
+			font-size: 13px;
+			color: #000000;
+			outline: none;
+			padding: 0px 15px;
+		}
+		
+		form textarea {
+			resize: vertical;
+			line-height: normal;
+			padding: 10px 15px;
+		}
+		
+		form button {
+			border: 0px none;
+			cursor: pointer;
+		}
+	</style> 
+	<!--[if (gte mso 9)|(IE)]>
+	<style type="text/css">
+		table {
+			border-collapse: collapse !important;
+		}
+		.outf14 {
+			font-size: 14px !important;
+		}
+		.not_for_outlook, .not_for_outlook table, .only_mob, .only_mob table {
+			mso-hide: all !important;
+			display: none !important;
+			font-size: 0;
+			max-height: 0;
+			line-height: 0;
+			mso-hide: all;
+		}
+		.outpadding {
+			padding-left: 0 !important;
+			padding-right: 0 !important;
+			padding-top: 0 !important;
+			padding-bottom: 0 !important;
+		}
+	</style>
+	<![endif]--> 
+</head> 
+<body class="body" style="padding:0;margin:0"> 
+	<div class="full-wrap"> 
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="full-wrap">
+		<tr><td align="center" bgcolor="#ffffff" style="line-height: normal; hyphens: none;">
+			<div>
+				<!--[if !mso]>
+				<!-->
+				<div class="mail_preheader" style="font-size: 0px; color: transparent; opacity: 0;">
+					<span style="font-family: Arial, Helvetica, sans-serif; font-size: 0px; color: transparent; line-height: 0px;"></span>
+				</div>
+				<!--
+				<![endif]-->
+			</div>  
+			<div>
+				<!--[if (gte mso 9)|(IE)]> 
+				<table width="600" border="0" cellspacing="0" cellpadding="0" style="width: 600px;">
+				<tr><td>
+				<![endif]--> 
+				<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 600px;">
+				<tr><td align="center" valign="top" bgcolor="#ffffff">
+					<div>
+						<div>
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tr><td align="center" valign="top" bgcolor="#ffeee4" style="padding: 24px 20px;">
+								<div>
+									<div>
+										<!--[if (gte mso 9)|(IE)]> 
+										<table width="470" border="0" cellspacing="0" cellpadding="0" style="width: 470px;">
+										<tr><td>
+										<![endif]--> 
+										<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 470px;">
+										<tr><td align="center" valign="top">
+											<div>
+												<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr><td align="left" valign="top" style="font-size: 0px;">
+													<div style="display: inline-block; vertical-align: top; width: 234px;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+														<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" style="padding: 0px 7px 30px;">
+																	<div>
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" valign="top">
+																				<div>
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="left" valign="top">
+																							<div>
+																								<div>
+																									<div style="line-height: 17px; font-style: italic;">
+																										<span style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #2d2d2d;">Богатство состоит не в обладании большими богатствами, а в малом количестве желаний. </span>
+																									</div>
+																								</div>
+																								<div style="height: 4px; line-height: 4px; font-size: 2px;">&nbsp;</div>
+																								<div>
+																									<div style="line-height: 14px;">
+																										<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 14px; color: #000000;">Эпиктет</span>
+																									</div>
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</td></tr>
+														</table>
+													</div>
+													<!--[if (gte mso 9)|(IE)]>
+													</td>
+													<td valign="top" width="234" style="width: 234px">
+													<![endif]-->
+													<div style="display: inline-block; vertical-align: top; width: 234px;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+														<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" style="padding: 0px 7px 30px;">
+																	<div>
+																		<div>
+																			<img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1760537687/Top_wipm8g.png" width="220" alt="" border="0" style="display: block; max-width: 220px; width: 100%;" class="w220px">
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</td></tr>
+														</table>
+													</div>
+												</td></tr>
+												</table>
+												<div style="height: 20px; line-height: 20px; font-size: 18px;">&nbsp;</div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="middle">
+														<div>
+															<img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1758120306/Logo_pmm13f.png" width="118" height="29" alt="" border="0" style="display: block;">
+														</div>
+													</td></tr>
+													</table>
+												</div>
+											</div>
+										</td></tr>
+										</table> 
+										<!--[if (gte mso 9)|(IE)]>
+										</td></tr>
+										</table> 
+										<![endif]-->
+									</div>
+								</div>
+							</td></tr>
+							</table>
+						</div>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr><td height="40" style="height: 48px;">&nbsp;
+						</td></tr>
+						</table>
+						<!-- Основной контент -->
+						<div>
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tr>
+								<td align="center" valign="top" class="desktop_no_padding" style="padding: 0px 0px;">
+								
+									
+										<!--[if (gte mso 9)|(IE)]> 
+										<table width="600" border="0" cellspacing="0" cellpadding="0" style="width: 600px;">
+										<tr><td>
+										<![endif]--> 
+										<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 600px;">
+										<tr><td align="left" valign="top">
+											
+												<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr><td align="left" valign="top" style="font-size: 0px;">
+													<div style="display: inline-block; vertical-align: top; width: 50%;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+														<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+															
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" style="padding: 0px 2px 8px;">
+																	
+																		
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" valign="top" height="25" style="height: 25px;">
+																				
+																					
+																						<div style="line-height: 22px;">
+																							<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 22px; color: #000000;">Привет!</span>
+																						</div>
+																					
+																				
+																			</td></tr>
+																			</table>
+																		
+																	
+																</td></tr>
+																</table>
+															
+														</td></tr>
+														</table>
+													</div>
+													<!--[if (gte mso 9)|(IE)]>
+													</td>
+													<td valign="top" width="103" style="width: 103px">
+													<![endif]-->
+													<div style="display: inline-block; vertical-align: top; width: 50%;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+														<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+															
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" style="padding: 0px 2px 8px;">
+																	<div>
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" valign="middle">
+																				
+																					
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="right">
+																							
+																								
+																									<div style="line-height: 22px;">
+																										<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 22px; color: #b1b1b1;">выпуск №1</span>
+																									</div>
+																								
+																							
+																						</td></tr>
+																						</table>																				
+																			</td></tr>
+																			</table>
+																		</div>																	
+																</td></tr>
+																</table>
+															
+														</td></tr>
+														</table>
+													</div>
+												</td></tr>
+												</table>
+												<div style="height: 20px; line-height: 20px; font-size: 18px;">&nbsp;</div>
+												<div>
+													<div style="line-height: 24px;">
+														<span style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; line-height: 120%; color: #000000;">Однажды я осознал, что олдскульные email-рассылки меня дисциплинируют. В отличие от телеграм-каналов или привычных соцсетей, я не могу читать письма, даже если это просто картинки, впопыхах. Мне нужно освободить внимание и время, чтобы вернуться к письму и прочитать его. Такой формат позволяет более вдумчиво просматривать контент и никуда не спешить — полная противоположность современным медиаформатам.
+														</br></br>И вот я решил начать писать такие письма сам. Сформировал свой формат (кстати, это ещё один плюс писем) и придумал ограничения. Кстати, об ограничениях. Наткнулся на довольно интересное наблюдение: сформированные ограничения работают лучше, чем постановка целей. В одной из недавних статей авторы подчёркивают, как традиционное целеполагание часто создаёт иллюзию прогресса и контроля, но не всегда приводит к внутреннему удовлетворению. Как будто без рамок нам не обойтись.
+													</br></br>В последние три года, полные коварной неопределённости, я почувствовал на себе, как работают ограничения, хотя и неосознанно. Они действуют как мачете в джунглях: отсекают лишнее и помогают двигаться вперёд, даже если конечная цель неясна.
+												</br></br>На микроуровне я замечал, как ограничения позволяют творчески преодолевать сложные скалолазные маршруты или находить общий язык с командой перед долгим релизом. В общем, если выбирать и принимать ограничения осознанно, они помогут сориентироваться в нужный момент. Но под давлением страхов они могут превратиться в «футляр», мешающий жить.</span>
+													</div>
+												</div>											
+										</td></tr>
+										</table> 
+										<!--[if (gte mso 9)|(IE)]>
+										</td></tr>
+										</table> 
+										<![endif]-->		
+							</td></tr>
+							</table>
+						</div>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr><td height="40" style="height: 48px;">&nbsp;
+						</td></tr>
+						</table>
+						<div>
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tr>
+								<td align="center" valign="top" class="desktop_no_padding" style="padding: 0px 0px;">
+								<div>
+									<div>
+										<!--[if (gte mso 9)|(IE)]> 
+										<table width="600" border="0" cellspacing="0" cellpadding="0" style="width: 600px;">
+										<tr><td>
+										<![endif]--> 
+										<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 600px;">
+										<tr><td align="left" valign="top">
+											<div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" valign="top">
+																	<div>
+																		<div>
+																			<div style="line-height: 22px;">
+																				<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 22px; color: #000000;">Сервисы с&nbsp;изюменкой</span>
+																			</div>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+												<div style="height: 20px; line-height: 20px; font-size: 18px;">&nbsp;</div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr><td align="left" valign="top" style="font-size: 0px;">
+																<div style="display: inline-block; vertical-align: top; padding-right: 16px; width: 180px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" style="padding: 0px 0px 16px;">
+																				<div>
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="left" valign="top">
+																							<div>
+																								<div>
+																									<div style="line-height: 23px;">
+																										<a href="https://blip.net" style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; color: #000000; text-decoration: underline;">blip.ne</a>
+																									</div>
+																								</div>
+																								<div style="height: 2px; line-height: 2px; font-size: 0px;">&nbsp;</div>
+																								<div>
+																									<div style="line-height: 23px;">
+																										<span style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #b1b1b1;">Инструмент</span>
+																									</div>
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+																<!--[if (gte mso 9)|(IE)]>
+																</td>
+																<td valign="top" width="334" style="width: 334px">
+																<![endif]-->
+																<div style="display: inline-block; vertical-align: top; max-width: 400px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" style="padding: 0px 0px 16px;">
+																				<div>
+																					<div>
+																						<div style="line-height: 18px;">
+																							<span style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; line-height: 120%; color: #000000;">С Blip можно быстро и безопасно передавать любые файлы без ограничений по размеру. Это как AirDrop, только для любых платформ.</span>
+																						</div>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+															</td></tr>
+															</table>
+															<div style="height: 24px; line-height: 24px; font-size: 22px;">&nbsp;</div>
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr><td align="left" valign="top" style="font-size: 0px;">
+																<div style="display: inline-block; vertical-align: top; padding-right: 16px; width: 180px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" style="padding: 0px 0px 16px;">
+																				<div>
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="left" valign="top">
+																							<div>
+																								<div>
+																									<div style="line-height: 23px;">
+																										<a href="https://www.pdfbarber.com" style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; color: #000000; text-decoration: underline;">pdfbarber.com</a>
+																									</div>
+																								</div>
+																								<div style="height: 2px; line-height: 2px; font-size: 0px;">&nbsp;</div>
+																								<div>
+																									<div style="line-height: 23px;">
+																										<span style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #b1b1b1;">Редактор</span>
+																									</div>
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+																<!--[if (gte mso 9)|(IE)]>
+																</td>
+																<td valign="top" width="334" style="width: 334px">
+																<![endif]-->
+																<div style="display: inline-block; vertical-align: top; max-width: 400px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" style="padding: 0px 0px 16px;">
+																				<div>
+																					<div>
+																						<div style="line-height: 18px;">
+																							<span style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; line-height: 120%; color: #000000;">PDF Barber позволяет быстро и безопасно работать с PDF прямо в браузере. Он бесплатен, прост и поддерживает множество функций: разделение, объединение, подпись, сжатие, редактирование и другие инструменты.</span>
+																						</div>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+															</td></tr>
+															</table>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+											</div>
+										</td></tr>
+										</table> 
+										<!--[if (gte mso 9)|(IE)]>
+										</td></tr>
+										</table> 
+										<![endif]-->
+									</div>
+								</div>
+							</td></tr>
+							</table>
+						</div>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr><td height="40" style="height: 48px;">&nbsp;
+						</td></tr>
+						</table>
+						<div>
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tr><td align="center" valign="top">
+								<div>
+									<div>
+										<!--[if (gte mso 9)|(IE)]> 
+										<table width="600px" border="0" cellspacing="0" cellpadding="0" style="width: 600px;">
+										<tr><td>
+										<![endif]--> 
+										<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 600px;">
+										<tr>
+											<td align="left" valign="top" bgcolor="#efefef" style="padding: 24px 20px;">
+											<div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="center" valign="middle">
+														<div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left">
+																	<div>
+																		<div>
+																			<div style="line-height: 22px;">
+																				<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 22px; color: #000000;">Настоящие фотографии</span>
+																			</div>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+												<div style="height: 20px; line-height: 20px; font-size: 18px;">&nbsp;</div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr><td align="left" valign="top" style="font-size: 0px;">
+																<div style="display: inline-block; vertical-align: top; width: 100%; max-width: 288px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" style="padding: 0px 6px 24px;">
+																				<div>
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="left" valign="top">
+																							<div>
+																								<img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1760537681/image_3_vqobt5.jpg" width="276" height="auto" alt="" border="0" style="display: block;">
+																								<div style="height: 19px; line-height: 19px; font-size: 17px;">&nbsp;</div>
+																								<img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1760537681/image_2_q2ipbc.jpg" width="276" height="auto" alt="" border="0" style="display: block;">
+																								<div style="height: 19px; line-height: 19px; font-size: 17px;">&nbsp;</div>
+																								<img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1760537680/image_1_sfb8pc.jpg" width="276" height="auto" alt="" border="0" style="display: block;">
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+																<!--[if (gte mso 9)|(IE)]>
+																</td>
+																<td valign="top" width="142" style="width: 142px">
+																<![endif]-->
+																<div style="display: inline-block; vertical-align: top; width: 200px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="center" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="center" style="padding: 0px 6px 24px;">
+																				<div>
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="center" valign="middle">
+																							<div>
+																								<div>
+																									<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																									<tr><td align="left">
+																										<div>
+																											<div>
+																												<div style="line-height: 18px;">
+																													<span style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #000000;">В небольшой заметке Конни Као показывает, что даже из небольшого балкона можно создать красивый сад, наполненный творчеством и экспериментами.</br>Начать совсем не сложно. </span><a href="https://thedesignfiles.net/2025/07/gardens-balcony-gardening-advice" style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #000000;"> How To Get Started With Balcony Gardening.</a>
+																												</div>
+																											</div>
+																										</div>
+																									</td></tr>
+																									</table>
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+															</td></tr>
+															</table>
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr><td height="40" style="height: 48px;">&nbsp;
+															</td></tr>
+															</table>
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr><td align="left" valign="top" style="font-size: 0px;">
+																<div style="display: inline-block; vertical-align: top; width: 100%; max-width: 288px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" style="padding: 0px 6px 24px;">
+																				<div>
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="left" valign="top">
+																							<div>
+																								<img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1760537684/image_6_zufuri.jpg" width="276" height="auto" alt="" border="0" style="display: block;">
+																								<div style="height: 19px; line-height: 19px; font-size: 17px;">&nbsp;</div>
+																								<img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1760537683/image_5_mzsvya.jpg" width="276" height="auto" alt="" border="0" style="display: block;">
+																								<div style="height: 19px; line-height: 19px; font-size: 17px;">&nbsp;</div>
+																								<img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1760537682/image_4_u6pver.jpg" width="276" height="auto" alt="" border="0" style="display: block;">
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+																<!--[if (gte mso 9)|(IE)]>
+																</td>
+																<td valign="top" width="142" style="width: 142px">
+																<![endif]-->
+																<div style="display: inline-block; vertical-align: top; width: 142px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="center" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="center" style="padding: 0px 6px 24px;">
+																				<div>
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="center" valign="middle">
+																							<div>
+																								<div>
+																									<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																									<tr><td align="left">
+																										<div>
+																											<div>
+																												<div style="line-height: 18px;">
+																													<span style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #000000;">Давно забытые газетные кисоки по всему миру. <a href="https://www.trevortraynor.com/newsstands" style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #000000;">Trevor Traynor</a></span>
+																												</div>
+																											</div>
+																										</div>
+																									</td></tr>
+																									</table>
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+															</td></tr>
+															</table>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+											</div>
+										</td></tr>
+										</table> 
+										<!--[if (gte mso 9)|(IE)]>
+										</td></tr>
+										</table> 
+										<![endif]-->
+									</div>
+								</div>
+							</td></tr>
+							</table>
+						</div>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr><td height="40" style="height: 48px;">&nbsp;
+						</td></tr>
+						</table>
+						<div>
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tr>
+								<td align="center" valign="top" class="desktop_no_padding" style="padding: 0px 0px;">
+								<div>
+									<div>
+										<!--[if (gte mso 9)|(IE)]> 
+										<table width="600" border="0" cellspacing="0" cellpadding="0" style="width: 600px;">
+										<tr><td>
+										<![endif]--> 
+										<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 600px;">
+										<tr><td align="left" valign="top">
+											<div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" valign="top">
+																	<div>
+																		<div>
+																			<div style="line-height: 22px;">
+																				<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 22px; color: #000000;">Находки из&nbsp;соц сетей</span>
+																			</div>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+												<div style="height: 20px; line-height: 20px; font-size: 18px;">&nbsp;</div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" valign="top" bgcolor="#dbebff" style="padding: 16px 24px;">
+																	<div>
+																		<div>
+																			<div style="line-height: 20px; font-style: italic;">
+																				<span style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; color: #000000;">Мечтаю стать СЕО
+																				</br>C — Спать
+</br>E — Есть чипсы
+</br>O — Отдыхать</span>
+																			</div>
+																		</div>
+																		<div style="height: 4px; line-height: 4px; font-size: 2px;">&nbsp;</div>
+																		<div>
+																			<div style="line-height: 20px;">
+																				<span><a style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 16px; color: #000000;" href="https://x.com/bunopus">@bunopus</a></span>
+																			</div>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+															<div style="height: 4px; line-height: 4px; font-size: 2px;">&nbsp;</div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" valign="top" bgcolor="#dbebff" style="padding: 16px 24px;">
+																	<div>
+																		<div>
+																			<div style="line-height: 20px; font-style: italic;">
+																				<span style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; color: #000000;">да, расставания причиняют боль, но видели ли вы когда-нибудь, как ваш лучший друг превращался в незнакомца?</span>
+																			</div>
+																		</div>
+																		<div style="height: 4px; line-height: 4px; font-size: 2px;">&nbsp;</div>
+																		<div>
+																			<div style="line-height: 20px;">
+																				<span><a style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 16px; color: #000000;" href="https://x.com/1thwitness">@1thwitness</a></span>
+																			</div>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+											</div>
+										</td></tr>
+										</table> 
+										<!--[if (gte mso 9)|(IE)]>
+										</td></tr>
+										</table> 
+										<![endif]-->
+									</div>
+								</div>
+							</td></tr>
+							</table>
+						</div>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr><td height="40" style="height: 48px;">&nbsp;
+						</td></tr>
+						</table>
+						<div>
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tr>
+								<td align="center" valign="top" class="desktop_no_padding" style="padding: 0px 0px;">
+								<div>
+									<div>
+										<!--[if (gte mso 9)|(IE)]> 
+										<table width="600" border="0" cellspacing="0" cellpadding="0" style="width: 600px;">
+										<tr><td>
+										<![endif]--> 
+										<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 600px;">
+										<tr><td align="left" valign="top">
+											<div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" valign="top">
+																	<div>
+																		<div>
+																			<div style="line-height: 22px;">
+																				<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 22px; color: #000000;">Экология в&nbsp;цифрах</span>
+																			</div>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+												<div style="height: 20px; line-height: 20px; font-size: 18px;">&nbsp;</div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" valign="middle" bgcolor="#dffad7" style="padding: 16px 20px 16px 16px;">
+																	<div>
+																		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr><td align="left" valign="middle" style="font-size: 0px;">
+																			<div style="display: inline-block; vertical-align: middle; width: 180px;">
+																				<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																				<tr><td align="center" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="center" style="padding: 0px 2px 12px;">
+																							<div>
+																								<div>
+																									<!--[if (gte mso 9)|(IE)]> 
+																									<table width="104" border="0" cellspacing="0" cellpadding="0" style="width: 104px;">
+																									<tr><td>
+																									<![endif]--> 
+																									<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 104px;">
+																									<tr><td align="center" valign="middle" style="padding: 15px 0px;">
+																										<div>
+																											<div>
+																												<div style="line-height: 24px;">
+																													<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 20px; color: #000000;">180</span>
+																												</div>
+																											</div>
+																										</div>
+																									</td></tr>
+																									</table> 
+																									<!--[if (gte mso 9)|(IE)]>
+																									</td></tr>
+																									</table> 
+																									<![endif]-->
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</td></tr>
+																				</table>
+																			</div>
+																			<!--[if (gte mso 9)|(IE)]>
+																			</td>
+																			<td valign="middle" width="334" style="width: 334px">
+																			<![endif]-->
+																			<div style="display: inline-block; vertical-align: middle; width: 100%; max-width: 334px;">
+																				<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																				<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="left" style="padding: 0px 2px 12px;">
+																							<div>
+																								<div>
+																									<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																									<tr><td align="left" valign="middle">
+																										<div>
+																											<div>
+																												<div style="line-height: 18px;">
+																													<span style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; color: #000000;">Примерно столько лет будет разлагаться обычная пластиковая бутылка на мусорном полигоне.</span>
+																												</div>
+																											</div>
+																										</div>
+																									</td></tr>
+																									</table>
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</td></tr>
+																				</table>
+																			</div>
+																		</td></tr>
+																		</table>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+															<div style="height: 4px; line-height: 4px; font-size: 2px;">&nbsp;</div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" valign="middle" bgcolor="#dffad7" style="padding: 16px 20px 16px 16px;">
+																	<div>
+																		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr><td align="left" valign="middle" style="font-size: 0px;">
+																			<div style="display: inline-block; vertical-align: middle; width: 180px;">
+																				<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																				<tr><td align="center" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="center" style="padding: 0px 2px 12px;">
+																							<div>
+																								<div>
+																									<!--[if (gte mso 9)|(IE)]> 
+																									<table width="104" border="0" cellspacing="0" cellpadding="0" style="width: 104px;">
+																									<tr><td>
+																									<![endif]--> 
+																									<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 104px;">
+																									<tr><td align="center" valign="middle" style="padding: 15px 0px;">
+																										<div>
+																											<div>
+																												<div style="line-height: 24px;">
+																													<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 20px; color: #000000;">10</span>
+																												</div>
+																											</div>
+																										</div>
+																									</td></tr>
+																									</table> 
+																									<!--[if (gte mso 9)|(IE)]>
+																									</td></tr>
+																									</table> 
+																									<![endif]-->
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</td></tr>
+																				</table>
+																			</div>
+																			<!--[if (gte mso 9)|(IE)]>
+																			</td>
+																			<td valign="middle" width="334" style="width: 334px">
+																			<![endif]-->
+																			<div style="display: inline-block; vertical-align: middle; width: 100%; max-width: 334px;">
+																				<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																				<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="left" style="padding: 0px 2px 12px;">
+																							<div>
+																								<div>
+																									<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																									<tr><td align="left" valign="middle">
+																										<div>
+																											<div>
+																												<div style="line-height: 18px;">
+																													<span style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; color: #000000;">Столько многоразовых мешочков мы купили, чтобы в овощном магазине больше не говорить: „Не треба кеса“.</span>
+																												</div>
+																											</div>
+																										</div>
+																									</td></tr>
+																									</table>
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</td></tr>
+																				</table>
+																			</div>
+																		</td></tr>
+																		</table>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+															<div style="height: 4px; line-height: 4px; font-size: 2px;">&nbsp;</div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" valign="middle" bgcolor="#dffad7" style="padding: 16px 20px 16px 16px;">
+																	<div>
+																		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr><td align="left" valign="middle" style="font-size: 0px;">
+																			<div style="display: inline-block; vertical-align: middle; width: 180px;">
+																				<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																				<tr><td align="center" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="center" style="padding: 0px;">
+																							<div>
+																								<div>
+																									<!--[if (gte mso 9)|(IE)]> 
+																									<table width="100" border="0" cellspacing="0" cellpadding="0" style="width: 100px;">
+																									<tr><td>
+																									<![endif]--> 
+																									<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 100px;">
+																									<tr><td align="center" valign="middle" style="padding: 15px 0px;">
+																										<div>
+																											<div>
+																												<div style="line-height: 24px;">
+																													<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 20px; color: #000000;">62</span>
+																												</div>
+																											</div>
+																										</div>
+																									</td></tr>
+																									</table> 
+																									<!--[if (gte mso 9)|(IE)]>
+																									</td></tr>
+																									</table> 
+																									<![endif]-->
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</td></tr>
+																				</table>
+																			</div>
+																			<!--[if (gte mso 9)|(IE)]>
+																			</td>
+																			<td valign="middle" width="328" style="width: 328px">
+																			<![endif]-->
+																			<div style="display: inline-block; vertical-align: middle; width: 100%; max-width: 328px;">
+																				<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																				<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="left" style="padding: 0px;">
+																							<div>
+																								<div>
+																									<div style="line-height: 18px;">
+																										<span style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; color: #000000;">Столько точек приёма книг и журналов есть <a style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; color: #000000;" href="https://recycle.mos.ru/knigi/#allecodots">в Москве</a>. Кажется, что книга совсем не простая вещь для утилизации или переработки. Обещают, что их просматривают и сортируют по степени негодности. Так уже спасли 108 000 книг.</span>
+																									</div>
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</td></tr>
+																				</table>
+																			</div>
+																		</td></tr>
+																		</table>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+											</div>
+										</td></tr>
+										</table> 
+										<!--[if (gte mso 9)|(IE)]>
+										</td></tr>
+										</table> 
+										<![endif]-->
+									</div>
+								</div>
+							</td></tr>
+							</table>
+						</div>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr><td height="40" style="height: 48px;">&nbsp;
+						</td></tr>
+						</table>
+						<div>
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tr>
+								<td align="center" valign="top" class="desktop_no_padding" style="padding: 0px 0px;">
+								<div>
+									<div>
+										<!--[if (gte mso 9)|(IE)]> 
+										<table width="600" border="0" cellspacing="0" cellpadding="0" style="width: 600px;">
+										<tr><td>
+										<![endif]--> 
+										<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 600px;">
+										<tr><td align="left" valign="top">
+											<div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" valign="top">
+																	<div>
+																		<div>
+																			<div style="line-height: 22px;">
+																				<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 22px; color: #000000;">Пища для&nbsp;ума</span>
+																			</div>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+												<div style="height: 20px; line-height: 20px; font-size: 18px;">&nbsp;</div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr><td align="left" valign="top" style="font-size: 0px;">
+																<div style="display: inline-block; vertical-align: top; padding-right: 16px; width: 180px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" style="padding: 0px 0px 16px;">
+																				<div>
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="left" valign="top">
+																							<div>
+																								<div>
+																									<div style="line-height: 23px;">
+																										<a href="https://petrosian.ru/2024/08/vnimanie-kak-konkurentnoe-preimushhestvo/" style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; color: #000000; text-decoration: underline;">Внимание как конкурентное преимущество</a>
+																									</div>
+																								</div>
+																								<div style="height: 2px; line-height: 2px; font-size: 0px;">&nbsp;</div>
+																								<div>
+																									<div style="line-height: 23px;">
+																										<span style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #b1b1b1;">Блог</span>
+																									</div>
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+																<!--[if (gte mso 9)|(IE)]>
+																</td>
+																<td valign="top" width="334" style="width: 334px">
+																<![endif]-->
+																<div style="display: inline-block; vertical-align: top; max-width: 400px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" style="padding: 0px 0px 16px;">
+																				<div>
+																					<div>
+																						<div style="line-height: 18px;">
+																							<span style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; line-height: 120%; color: #000000;">Армен Петросян рассказывает, как быть внимательным и сосредоточенным, чтобы добиваться успеха в работе и личной жизни.</span>
+																						</div>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+															</td></tr>
+															</table>
+															<div style="height: 24px; line-height: 24px; font-size: 22px;">&nbsp;</div>
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr><td align="left" valign="top" style="font-size: 0px;">
+																<div style="display: inline-block; vertical-align: top; padding-right: 16px; width: 180px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" style="padding: 0px 0px 16px;">
+																				<div>
+																					<div>
+																						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																						<tr><td align="left" valign="top">
+																							<div>
+																								<div>
+																									<div style="line-height: 23px;">
+																										<a href="https://www.joanwestenberg.com/p/smart-people-don-t-chase-goals-they-create-limits" style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; color: #000000; text-decoration: underline;">Smart People Don't Chase Goals; They Create Limits</a>
+																									</div>
+																								</div>
+																								<div style="height: 2px; line-height: 2px; font-size: 0px;">&nbsp;</div>
+																								<div>
+																									<div style="line-height: 23px;">
+																										<span style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #b1b1b1;">Статья</span>
+																									</div>
+																								</div>
+																							</div>
+																						</td></tr>
+																						</table>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+																<!--[if (gte mso 9)|(IE)]>
+																</td>
+																<td valign="top" width="334" style="width: 334px">
+																<![endif]-->
+																<div style="display: inline-block; vertical-align: top; max-width: 400px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																	<tr><td align="left" valign="top" dir="ltr" class="outf14" style="font-size: large;">
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" style="padding: 0px 0px 16px;">
+																				<div>
+																					<div>
+																						<div style="line-height: 18px;">
+																							<span style="font-family: 'Nunito Sans', sans-serif; font-size: 18px; line-height: 120%; color: #000000;">Статья побуждает переосмыслить традиционный подход к успеху и личному развитию. Вместо того чтобы слепо следовать целям, автор предлагает фокусироваться на ограничениях — правилах, принципах и границах, которые мы сами себе устанавливаем.</span>
+																						</div>
+																					</div>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</td></tr>
+																	</table>
+																</div>
+															</td></tr>
+															</table>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+											</div>
+										</td></tr>
+										</table> 
+										<!--[if (gte mso 9)|(IE)]>
+										</td></tr>
+										</table> 
+										<![endif]-->
+									</div>
+								</div>
+							</td></tr>
+							</table>
+						</div>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr><td height="40" style="height: 48px;">&nbsp;
+						</td></tr>
+						</table>
+						<div>
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tr>
+								<td align="center" valign="top" class="desktop_no_padding" style="padding: 0px 0px;">
+								<div>
+									<div>
+										<!--[if (gte mso 9)|(IE)]> 
+										<table width="600" border="0" cellspacing="0" cellpadding="0" style="width: 600px;">
+										<tr><td>
+										<![endif]--> 
+										<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 600px;">
+										<tr><td align="left" valign="top">
+											<div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" valign="top">
+																	<div>
+																		<div>
+																			<div style="line-height: 22px;">
+																				<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 22px; color: #000000;">Гифка недели</span>
+																			</div>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+												<div style="height: 20px; line-height: 20px; font-size: 18px;">&nbsp;</div>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="center" valign="middle">
+														<div>
+															<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU3eXU4MXBpa2s2MWlmdDd0aDFzZjFlMjlseG5yY2Zsa2dieXhxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lj11uKKMhr4Os/giphy.gif" width="350" height="212" alt="" border="0" style="display: block;">
+														</div>
+													</td></tr>
+													</table>
+												</div>
+											</div>
+										</td></tr>
+										</table> 
+										<!--[if (gte mso 9)|(IE)]>
+										</td></tr>
+										</table> 
+										<![endif]-->
+									</div>
+								</div>
+							</td></tr>
+							</table>
+						</div>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr><td height="40" style="height: 48px;">&nbsp;
+						</td></tr>
+						</table>
+						<div>
+				<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td align="center" valign="middle" bgcolor="#efefef" style="padding: 20px;">
+					<div>
+						<div>
+							<!--[if (gte mso 9)|(IE)]>
+							<table width="470" border="0" cellspacing="0" cellpadding="0" style="width: 470px;">
+							<tr><td>
+							<![endif]-->
+							<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 470px;">
+							<tr><td align="center" valign="middle" bgcolor="#ffffff" style="padding: 10px 0px;">
+								<div>
+									<div style="line-height: 17px;">
+										<span style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #000000;">Расскажи друзьям о&nbsp;рассылке</span>
+									</div> 
+									<div style="height: 8px; line-height: 8px; font-size: 1px;">&nbsp;</div>
+									<div style="line-height: 17px;">
+										<span style="font-family: 'Nunito Sans', sans-serif; font-size: 16px; color: #5d5af1; text-decoration: underline;"><a href="http://pachka.today">pachka.today</a></span>
+									</div>
+								</div>
+							</td></tr>
+							</table>
+							<!--[if (gte mso 9)|(IE)]>
+							</td></tr>
+							</table>
+							<![endif]-->
+						</div> 
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr><td height="30" style="height: 30px;">&nbsp;
+						</td></tr>
+						</table>
+						<div>
+							<!--[if (gte mso 9)|(IE)]>
+							<table width="470" border="0" cellspacing="0" cellpadding="0" style="width: 470px;">
+							<tr><td>
+							<![endif]-->
+							<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 470px;">
+							<tr><td align="left" valign="top">
+								<div>
+									<div>
+										<table border="0" cellspacing="0" cellpadding="0" width="100%">
+										<tr><td align="left" valign="top">
+											<div>
+												<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr><td align="left" valign="top" style="font-size: 0px;">
+													<div style="display: inline-block; vertical-align: top; width: 235px; padding-bottom: 20px">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+														<tr><td align="left" valign="top" class="outf14" style="font-size: large;">
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" style="padding: 0px 0px;">
+																	<div>
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" valign="top">
+																				<div>
+																					<div style="line-height: 17px;">
+																						<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 14px; color: #000000;">Вам понравился выпуск?</span>
+																					</div> 
+																					<div style="height: 8px; line-height: 8px; font-size: 6px;">&nbsp;</div>
+																					<table border="0" cellspacing="0" cellpadding="0" width="126" style="width: 126px;">
+																					<tr><td align="center" valign="top" style="padding: 0px 6px 0px 0px;">
+																						<div>
+																							<!--[if mso]>
+																							<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="#" style="height:34px;v-text-anchor:middle;width:34px;" arcsize="29%" stroke="f" fillcolor="#e6e6e6">
+																							
+																							<center style="color: #000000; font-size: 14px; font-weight: bold; font-family: 'Nunito Sans', sans-serif;">😞</center>
+																							</v:roundrect>
+																							<![endif]-->
+																							<a target="_blank" href="https://tally.so/r/3Nx5NB" style="background-color:#e6e6e6;font-size:14px;font-weight:bold;line-height:34px;width:34px;color:#000000;border-radius:10px;display:inline-block;font-family:Nunito Sans, sans-serif;text-align:center;text-decoration:none;-webkit-text-size-adjust:none;box-sizing:border-box;mso-hide:all">😞</a>
+																						</div>
+																					</td> 
+																					<td align="center" valign="top" style="padding: 0px 6px 0px 0px;">
+																						<div>
+																							<!--[if mso]>
+																							<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="#" style="height:34px;v-text-anchor:middle;width:34px;" arcsize="29%" stroke="f" fillcolor="#e6e6e6">
+																							<w:anchorlock></w:anchorlock>
+																							<center style="color: #000000; font-size: 14px; font-weight: bold; font-family: 'Nunito Sans', sans-serif;">😐</center>
+																							</v:roundrect>
+																							<![endif]-->
+																							<a target="_blank" href="https://tally.so/r/wLj1eG" style="background-color:#e6e6e6;font-size:14px;font-weight:bold;line-height:34px;width:34px;color:#000000;border-radius:10px;display:inline-block;font-family:Nunito Sans, sans-serif;text-align:center;text-decoration:none;-webkit-text-size-adjust:none;box-sizing:border-box;mso-hide:all">😐</a>
+																						</div>
+																					</td> 
+																					<td align="center" valign="top">
+																						<div>
+																							<!--[if mso]>
+																							<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="#" style="height:34px;v-text-anchor:middle;width:34px;" arcsize="29%" stroke="f" fillcolor="#e6e6e6">
+																							<w:anchorlock></w:anchorlock>
+																							<center style="color: #000000; font-size: 14px; font-weight: bold; font-family: 'Nunito Sans', sans-serif;">😃</center>
+																							</v:roundrect>
+																							<![endif]-->
+																							<a target="_blank" href="https://tally.so/r/meGZbE" style="background-color:#e6e6e6;font-size:14px;font-weight:bold;line-height:34px;width:34px;color:#000000;border-radius:10px;display:inline-block;font-family:Nunito Sans, sans-serif;text-align:center;text-decoration:none;-webkit-text-size-adjust:none;box-sizing:border-box;mso-hide:all">😃</a>
+																						</div>
+																					</td></tr>
+																					</table>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</td></tr>
+														</table>
+													</div>
+													<!--[if (gte mso 9)|(IE)]>
+													</td>
+													<td valign="top" width="235" style="width: 235px">
+													<![endif]-->
+													<div style="display: inline-block; vertical-align: top; width: 235px;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+														<tr><td align="left" valign="top" class="outf14" style="font-size: large;">
+															<div>
+																<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																<tr><td align="left" style="padding: 0px 0px;">
+																	<div>
+																		<div>
+																			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																			<tr><td align="left" valign="top">
+																				<div>
+																					<div style="line-height: 17px;">
+																						<span style="font-family: 'Nunito Sans', sans-serif; font-weight: bold; font-size: 14px; color: #000000;">Для&nbsp;любознательных</span>
+																					</div> 
+																					<div style="height: 8px; line-height: 8px; font-size: 6px;">&nbsp;</div>
+																					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																					<tr><td align="left" valign="top" style="font-size: 0px;">
+																						<div style="display: inline-block; vertical-align: top; width: 42px;">
+																							<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																							<tr><td align="center" valign="top" class="outf14" style="font-size: large;">
+																								<div>
+																									<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																									<tr><td align="center" style="padding: 0px 3px;">
+																										<div>
+																											<div>
+																												<!--[if (gte mso 9)|(IE)]>
+																												<table width="42" border="0" cellspacing="0" cellpadding="0" style="width: 42px;">
+																												<tr><td>
+																												<![endif]-->
+																												<a href="https://t.me/pachka_egorov"><table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 42px;">
+																												<tr><td align="center" valign="middle" bgcolor="#e6e6e6" style="padding: 10px; border-radius: 10px;">
+																													<div>
+																														<img src="Images/telegram.png" width="16" height="13" alt="" border="0" style="display: block;">
+																													</div>
+																												</td></tr>
+																												</table></a>
+																												<!--[if (gte mso 9)|(IE)]>
+																												</td></tr>
+																												</table>
+																												<![endif]-->
+																											</div>
+																										</div>
+																									</td></tr>
+																									</table>
+																								</div>
+																							</td></tr>
+																							</table>
+																						</div>
+																						<!--[if (gte mso 9)|(IE)]>
+																						</td>
+																						<td valign="top" width="40" style="width: 40px">
+																						<![endif]-->
+																						<div style="display: inline-block; vertical-align: top; width: 40px;">
+																							<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+																							<tr><td align="center" valign="top" class="outf14" style="font-size: large;">
+																								<div>
+																									<table border="0" cellspacing="0" cellpadding="0" width="100%">
+																									<tr><td align="center" style="padding: 0px 3px;">
+																										<div>
+																											<div>
+																												<!--[if (gte mso 9)|(IE)]>
+																												<table width="40" border="0" cellspacing="0" cellpadding="0" style="width: 40px;">
+																												<tr><td>
+																												<![endif]-->
+<a href="https://instagram.com/pachka.today">
+																												<table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 40px;">
+																												<tr><td align="center" valign="middle" bgcolor="#e6e6e6" style="padding: 10px; border-radius: 10px;">
+																													<div>
+																														<img src="Images/inst.png" width="13" height="13" alt="" border="0" style="display: block;">
+																													</div>
+																												</td></tr>
+																												</table></a>
+																												<!--[if (gte mso 9)|(IE)]>
+																												</td></tr>
+																												</table>
+																												<![endif]-->
+																											</div>
+																										</div>
+																									</td></tr>
+																									</table>
+																								</div>
+																							</td></tr>
+																							</table>
+																						</div>
+																					</td></tr>
+																					</table>
+																				</div>
+																			</td></tr>
+																			</table>
+																		</div>
+																	</div>
+																</td></tr>
+																</table>
+															</div>
+														</td></tr>
+														</table>
+													</div>
+												</td></tr>
+												</table> 
+												<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr><td height="24" style="height: 24px;">&nbsp;
+												</td></tr>
+												</table>
+												<div>
+													<table border="0" cellspacing="0" cellpadding="0" width="100%">
+													<tr><td align="left" valign="top">
+														<div>
+															<div style="line-height: 14px;">
+																<a href="{{ unsubscribe }}" style="font-family: 'Nunito Sans', sans-serif!important; font-size: 14px!important; color: #000000!important; text-decoration: underline!important;">Отписаться от&nbsp;рассылки</a>
+															</div>
+														</div>
+													</td></tr>
+													</table>
+												</div>
+											</div>
+										</td></tr>
+										</table>
+									</div> 
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr><td height="30" style="height: 30px;">&nbsp;
+									</td></tr>
+									</table>
+									<div>
+										<table border="0" cellspacing="0" cellpadding="0" width="100%">
+										<tr><td align="left" valign="top">
+											<div>
+												<div style="line-height: 14px;">
+													<span style="font-family: 'Nunito Sans', sans-serif; font-size: 14px; color: #b1b1b1;">🇷🇸 Опубликовано в&nbsp;Сербии</span>
+												</div> 
+												<div style="height: 16px; line-height: 16px; font-size: 14px;">&nbsp;</div>
+												<div style="line-height: 14px;">
+													<span style="font-family: 'Nunito Sans', sans-serif; font-size: 14px; color: #b1b1b1;">Copyright © 2025 Pachka, Все права защищены.</span>
+												</div>
+											</div>
+										</td></tr>
+										</table>
+									</div>
+								</div>
+							</td></tr>
+							</table>
+							<!--[if (gte mso 9)|(IE)]>
+							</td></tr>
+							</table>
+							<![endif]-->
+						</div>
+					</div>
+				</td></tr>
+				</table>
+			</div>
+		</div>
+	</td></tr>
+	</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td></tr>
+	</table>
+	<![endif]-->
+</div>
+</td></tr>
+</table> 
+</div> 
+</body> 
+</html> 
