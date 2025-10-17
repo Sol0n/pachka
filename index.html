@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Архив писем Pachka</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: system-ui, sans-serif; margin: 0; padding: 0; background:#FAFAFA;}
+        header { display: flex; justify-content: space-between; align-items: center; padding: 32px 40px 16px 40px;}
+        .title { font-size: 2rem; font-weight: 700;}
+        .subtitle { font-size: 1rem; color: #555;}
+        .search-box { position: relative;}
+        .search-box input { padding:8px 32px 8px 12px; font-size:1rem; border-radius: 4px; border: 1px solid #ccc;}
+        .list { margin: 0 40px; padding: 0; list-style: none;}
+        .list li { margin-bottom: 16px;}
+        .list a { text-decoration: none; color: #005BD1; font-size:1.1rem;}
+    </style>
+    <script>
+        function searchLetters() {
+            let query = document.getElementById('search').value.toLowerCase();
+            let items = document.querySelectorAll('.list li');
+            items.forEach(item => {
+                if (item.innerText.toLowerCase().includes(query)) {
+                    item.style.display = '';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+    <header>
+        <div>
+            <div class="title">Архив писем Pachka</div>
+            <div class="subtitle">Вся авторская email-рассылка в одном месте</div>
+        </div>
+        <div class="search-box">
+            <input id="search" type="text" placeholder="Поиск..." oninput="searchLetters()">
+        </div>
+    </header>
+
+    <ul class="list">
+        <li><a href="1_21.08.25.html" target="_blank">Письмо #1 — 21.08.25</a></li>
+        <!-- Добавляйте сюда новые письма аналогично -->
+        <!-- <li><a href="2_22.09.25.html" target="_blank">Письмо #2 — 22.09.25</a></li> -->
+    </ul>
+</body>
+</html>
