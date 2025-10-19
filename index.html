@@ -27,6 +27,14 @@
             overflow: hidden;
         }
         
+        .hero-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 40px;
+            height: 100%;
+            position: relative;
+        }
+        
         .hero-image {
             position: absolute;
             right: 0;
@@ -39,9 +47,9 @@
         
         .logo {
             position: absolute;
-            left: 40px;
+            left: 0;
             bottom: 20px;
-            width: 100px;
+            width: 150px;
         }
         
         .content-wrapper {
@@ -123,7 +131,7 @@
             
             .logo {
                 left: 20px;
-                width: 80px;
+                width: 120px;
             }
             
             .content-wrapper {
@@ -165,8 +173,10 @@
 </head>
 <body>
     <div class="hero">
-        <img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1758120306/Logo_pmm13f.png" alt="Logo" class="logo">
-        <img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1760875442/image-removebg-preview-Photoroom_lbidb9.png" alt="Hero" class="hero-image">
+        <div class="hero-inner">
+            <img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1758120306/Logo_pmm13f.png" alt="Logo" class="logo">
+            <img src="https://res.cloudinary.com/dr5fayojz/image/upload/v1760875442/image-removebg-preview-Photoroom_lbidb9.png" alt="Hero" class="hero-image">
+        </div>
     </div>
 
     <div class="content-wrapper">
